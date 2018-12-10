@@ -23,3 +23,6 @@ And a related book by the organizer of this conference:
 
 ## Surviving Design Projects: Managing Conflict in Creative Environments
 - https://www.thegamecrafter.com/games/surviving-design-projects
+
+## Github recommendation for opensource
+- https://opensource.guide/
